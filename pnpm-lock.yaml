@@ -11,6 +11,9 @@ importers:
       lerna:
         specifier: ^8.1.6
         version: 8.1.8(encoding@0.1.13)
+      typescript:
+        specifier: ^5.5.4
+        version: 5.5.4
 
   packages/core: {}
 
