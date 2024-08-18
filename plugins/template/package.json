@@ -1,0 +1,20 @@
+{
+  "name": "@monitorare/template",
+  "version": "0.0.0",
+  "description": "extension template",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuXingLiang214/monitorare.git"
+  },
+  "keywords": [
+    "extension",
+    "template"
+  ],
+  "author": "ruian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuXingLiang214/monitorare/issues"
+  },
+  "homepage": "https://github.com/YuXingLiang214/monitorare#readme"
+}

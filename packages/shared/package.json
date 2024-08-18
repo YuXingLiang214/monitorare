@@ -1,0 +1,20 @@
+{
+  "name": "@monitorare/shared",
+  "version": "0.0.0",
+  "description": "monitorare shared",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuXingLiang214/monitorare.git"
+  },
+  "keywords": [
+    "monitorare",
+    "shared"
+  ],
+  "author": "ruian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuXingLiang214/monitorare/issues"
+  },
+  "homepage": "https://github.com/YuXingLiang214/monitorare#readme"
+}
